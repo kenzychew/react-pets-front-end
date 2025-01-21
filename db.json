@@ -1,0 +1,40 @@
+{
+  "pets": [
+    {
+      "name": "Buddy",
+      "age": 3,
+      "breed": "Golden Retriever",
+      "id": "de70"
+    },
+    {
+      "name": "Whiskers",
+      "age": 5,
+      "breed": "Siamese Cat",
+      "id": "6c77"
+    },
+    {
+      "name": "Luna",
+      "age": 2,
+      "breed": "Persian Cat",
+      "id": "b1c8"
+    },
+    {
+      "name": "Max",
+      "age": 7,
+      "breed": "German Shepherd",
+      "id": "27cb"
+    },
+    {
+      "name": "Bella",
+      "age": 1,
+      "breed": "Beagle",
+      "id": "41b5"
+    },
+    {
+      "id": "7c1d",
+      "name": "penpen",
+      "age": 10,
+      "breed": "dog"
+    }
+  ]
+}
